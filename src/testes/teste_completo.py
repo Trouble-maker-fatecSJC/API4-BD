@@ -2,7 +2,7 @@ import requests
 import time
 
 # API endpoints
-base_url = "http://localhost:8000"
+base_url = "http://localhost:8000/api/v1"
 dados_url = f"{base_url}/dados/"
 failed_messages_url = f"{base_url}/failed-messages/"
 

@@ -5,3 +5,4 @@
 2025-04-08 00:31:53,327 - INFO - Dados enviados para processamento via MQTT
 2025-04-08 00:31:54,066 - INFO - Mensagem recebida no tópico api-fatec/estacao/dados/
 2025-04-08 00:31:54,156 - INFO - Dados salvos no MongoDB com sucesso após 1 tentativa(s)
+2025-04-08 18:02:16,400 - INFO - Dados enviados para processamento via MQTT

@@ -1,0 +1,37 @@
+{
+    "estacao": {
+      "uuid": "123e4567-e89b-12d3-a456-426614174000"
+    },
+    "parametros": [
+      {
+        "nome": "direcao_vento",
+        "unidade": "graus",
+        "valor": 180
+      },
+      {
+        "nome": "velocidade",
+        "unidade": "m/s",
+        "valor": 5.5
+      },
+      {
+        "nome": "indice_pluviometrico",
+        "unidade": "mm",
+        "valor": 12.3
+      },
+      {
+        "nome": "umidade",
+        "unidade": "%",
+        "valor": 65
+      },
+      {
+        "nome": "temperatura",
+        "unidade": "°C",
+        "valor": 22.4
+      },
+      {
+        "nome": "pressao",
+        "unidade": "hPa",
+        "valor": 1013.25
+      }
+    ]
+  }

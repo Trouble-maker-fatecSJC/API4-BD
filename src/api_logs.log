@@ -516,3 +516,8 @@
 2025-04-10 19:21:49,059 - ERROR - Tipo de parâmetro não encontrado: Chuva
 2025-04-10 19:21:49,260 - INFO - HTTP Request: GET http://localhost:3000/api/tipoparametro "HTTP/1.1 401 Unauthorized"
 2025-04-10 19:21:49,261 - ERROR - Tipo de parâmetro não encontrado: Direcao Vento
+2025-04-11 15:03:22,993 - INFO - Iniciando serviço MQTT...
+2025-04-11 15:03:22,993 - INFO - Serviço MQTT iniciado com sucesso
+2025-04-11 15:03:23,008 - INFO - API iniciada com sucesso
+2025-04-11 15:03:23,492 - INFO - Conectado ao broker MQTT com código: 0
+2025-04-11 16:20:42,811 - INFO - Conectado ao broker MQTT com código: 0
